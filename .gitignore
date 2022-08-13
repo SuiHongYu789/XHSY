@@ -1,0 +1,4 @@
+# 忽略index.css文件
+index.css
+# 忽略js文件夹和其中的js文件
+js/
